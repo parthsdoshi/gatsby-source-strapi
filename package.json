@@ -34,7 +34,7 @@
     "format": "prettier --write 'src/**/*.js'",
     "lint": "eslint src",
     "watch": "babel -w src --out-dir .",
-    "prepare": "npm run build"
+    "prepare": "npm run build",
     "lint": "eslint src"
   },
   "keywords": [
